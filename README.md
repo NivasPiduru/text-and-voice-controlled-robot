@@ -50,14 +50,6 @@ This system enables non-technical users to control complex robotic tasks through
 └─────────────────┘
 ```
 
-## 🛠️ Technologies
-
-**Robotics Framework**: ROS2 (Humble)  
-**Programming Language**: Python 3.10  
-**Computer Vision**: OpenCV  
-**AI/ML**: Google Gemini 2.5 Flash LLM, Google Speech Recognition API  
-**Hardware**: Dobot Magician Lite robotic arm (4DOF with vacuum gripper)
-
 ## 📦 Installation
 
 ### Prerequisites
@@ -65,7 +57,7 @@ This system enables non-technical users to control complex robotic tasks through
 - Ubuntu 22.04
 - ROS2 Humble
 - Python 3.10+
-- Dobot Magician Lite
+- Dobot Magician Lite with suction
 
 ### Dependencies
 ```bash
