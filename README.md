@@ -118,16 +118,6 @@ Press **ESC** or say **"stop listening"**
 - **Total Execution Time**: 8-12 seconds per pick-and-place operation
 - **Stack Success Rate**: 98% for 2-level stacks, 92% for 3-level
 
-## 📁 Project Structure
-```
-text-and-voice-controlled-robot/
-├── converter_node.py          # Homography-based coordinate transformation
-├── executor_node.py            # Robot motion planning & control
-├── llm_command_parser.py       # LLM-based natural language parsing
-├── vision_detector_node.py     # Computer vision & object detection
-├── voice_command_node_gui.py   # Speech recognition & wake word
-└── README.md
-```
 
 ## 🎓 Academic Context
 
