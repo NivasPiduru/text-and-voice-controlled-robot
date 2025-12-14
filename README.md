@@ -9,7 +9,7 @@ AI-powered robotic manipulation system that responds to natural language voice c
 
 ## 🎥 Demo
 
-[**Watch Video Demo**](https://youtu.be/byuuGB1L9Vg) | [**Full Project Report**](https://nivaspiduru.github.io/portfolio/portfolio-1-voice-robot/)
+[**Watch Video Demo**](https://youtu.be/byuuGB1L9Vg) | [**website**](https://nivaspiduru.github.io/portfolio/portfolio-1-voice-robot/)
 
 ## 📋 Overview
 
@@ -117,25 +117,6 @@ Press **ESC** or say **"stop listening"**
 | "Rotate the blue block 90 degrees" | Picks and rotates block before placing |
 | "Make a tower with red, blue, green" | Stacks blocks in specified order |
 
-## 📊 Technical Highlights
-
-### Computer Vision Pipeline
-- HSV-based color segmentation for robust block detection
-- MinAreaRect for rotation estimation (full 360° with 0-90° normalization)
-- Spatial proximity analysis for stack detection
-- Real-time tracking with unique block identifiers
-
-### LLM Integration & Spatial Reasoning
-- Temperature parameter (0.1) for deterministic outputs
-- Comprehensive scene context with distance matrices and spatial annotations
-- Resolves ambiguous references ("farthest block", "between blocks")
-- Multi-step command decomposition
-
-### Motion Planning
-- Dynamic Z-height adjustment based on stack levels
-- Rotation matching for precise block alignment
-- Multi-level stacking with collision avoidance
-- Alarm management for consistent robot operation
 
 ## 🔬 Performance
 
