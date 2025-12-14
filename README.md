@@ -11,6 +11,19 @@ AI-powered robotic manipulation system that responds to natural language voice c
 
 [**Watch Video Demo**](https://youtu.be/byuuGB1L9Vg) | [**website**](https://nivaspiduru.github.io/portfolio/portfolio-1-voice-robot/)
 
+### System in Action
+   
+<p align="center">
+  <img src="images/robot-setup.png" width="45%" alt="Robot Hardware Setup"/>
+  <img src="images/vision-detection.png" width="45%" alt="Computer Vision Detection"/>
+</p>
+   
+<p align="center">
+  <img src="images/system-running.png" width="90%" alt="System Running - All ROS2 Nodes"/>
+</p>
+   
+*Figure: (Top) Dobot Magician with colored blocks & real-time object detection with pose estimation. (Bottom) ROS2 system with all nodes running including Claude AI integration.*
+
 ## 📋 Overview
 
 This system enables non-technical users to control complex robotic tasks through simple voice commands like "stack the red block on the blue one." The robot sees its environment, understands natural language, and executes precise manipulations autonomously.
