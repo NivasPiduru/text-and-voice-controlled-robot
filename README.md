@@ -136,12 +136,7 @@ Press **ESC** or say **"stop listening"**
 
 **Course**: RAS 545 - Robotics and Autonomous Systems (Final Project)  
 **Institution**: Arizona State University  
-
-## 👨‍💻 Author
-
-**Nivas Piduru**  
-MS Robotics and Autonomous Systems, Arizona State University  
-📧 nivaspiduru@gmail.com  
+ 
 🔗 [Portfolio](https://nivaspiduru.github.io) | [LinkedIn](https://linkedin.com/in/nivas-piduru)
 
 ## 📄 License
